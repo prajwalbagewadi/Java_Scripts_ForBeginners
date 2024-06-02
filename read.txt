@@ -1,0 +1,2 @@
+this repo will hold all data on javaScript learning 
+date 02-june-2024
